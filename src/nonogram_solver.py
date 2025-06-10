@@ -1,9 +1,9 @@
 #AI project Code fall'24 BS(DS)-1
 #Nonogram Puzzle Solver Using Simulated Annealing
 
-#Mohammad Hasnain (462247)
-#Mohammad Umar Raza (461532)
 #Mohid Arshad (455977)
+#Mohammad Umar Raza (461532)
+#Mohammad Hasnain (462247)
 
 import random
 import math
@@ -209,7 +209,8 @@ constraints = [
 ]
 
 # Randomly select constraints
-row_constraints, col_constraints = constraints[6]
+row_constraints, col_constraints = constraints[3]
+# row_constraints, col_constraints = random.choice(constraints)
 
 # Validate constraints
 valid, message = validate_constraints(
