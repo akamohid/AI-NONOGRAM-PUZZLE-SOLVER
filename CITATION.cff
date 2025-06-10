@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "AI Nonogram Puzzle Solver via Simulated Annealing"
+version: "1.0.0"
+date-released: "2025-06-10"
+authors:
+  - family-names: Arshad
+    given-names: Mohid
+  - family-names: Raza
+    given-names: Mohammad Umar
+  - family-names: Hasnain
+    given-names: Mohammad
+repository-code: "https://github.com/akamohid/AI-NONOGRAM-PUZZLE-SOLVER"

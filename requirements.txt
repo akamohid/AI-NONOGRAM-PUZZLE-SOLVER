@@ -1,0 +1,6 @@
+# requirements
+
+Python Standard Library only
+turtle, math, random, etc.
+
+python >= 3.7
