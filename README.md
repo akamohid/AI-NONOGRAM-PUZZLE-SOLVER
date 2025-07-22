@@ -1,14 +1,4 @@
 
-# 🧩 AI Nonogram Puzzle Solver via Simulated Annealing
-
-**Group Members:**  
-- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://linkedin.com/in/mohid-arshad-347180235/)  
-- **Mohammad Umar** — [LinkedIn](https://www.linkedin.com/in/mohammad-umar-1147a62a6/)  
-- **Mohammad Hasnain** — [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)
-
-**GitHub Repo:** https://github.com/akamohid/AI-NONOGRAM-PUZZLE-SOLVER
-
----
 
 ## 📖 What Is a Nonogram?
 
