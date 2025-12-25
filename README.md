@@ -178,7 +178,7 @@ Standard Library only (turtle, math, random)
 
 ## 👥 Team Members
 
-- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://linkedin.com/in/mohid-arshad-347180235/)  
+- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://www.linkedin.com/in/akamohid/)  
 - **Mohammad Umar** — [LinkedIn](https://www.linkedin.com/in/mohammad-umar-1147a62a6/)  
 - **Mohammad Hasnain** — [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)  
 
