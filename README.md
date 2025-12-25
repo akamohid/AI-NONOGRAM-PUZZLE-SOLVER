@@ -209,7 +209,7 @@ See [LICENSE](LICENSE) for full terms.
 
 Made with ❤️ by **Mohid Arshad**.  
 ✉️ Email: akamohid@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mohid-arshad-347180235/)  
+🔗 LinkedIn: [akamohid](https://www.linkedin.com/in/akamohid/)  
 
 Feel free to open issues, propose enhancements, or leave a ⭐!
 
